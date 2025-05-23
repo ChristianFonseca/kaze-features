@@ -9,13 +9,13 @@ This project is designed to [brief project description].
 ## Installation
 
 ```bash
-# Installation instructions
+Need to install OpenCV and Jupyter Notebook.
 ```
 
 ## Usage
 
 ```bash
-# Basic usage examples
+Open notebook.ipynb and run the cells.
 ```
 
 ## Contributing
